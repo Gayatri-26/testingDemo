@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello Everyone")
         print("Checking whether pull push works or not")
+        print("Its Working Finally")
     }
 
     override func didReceiveMemoryWarning() {
