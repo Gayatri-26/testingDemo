@@ -13,6 +13,9 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        print("Hello")
+        print("This is")
+        print(" second View Controller")
         // Do any additional setup after loading the view.
     }
     
