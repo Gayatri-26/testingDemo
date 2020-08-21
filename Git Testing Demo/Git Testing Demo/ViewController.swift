@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello Everyone")
+        print("Checking whether pull push works or not")
     }
 
     override func didReceiveMemoryWarning() {
